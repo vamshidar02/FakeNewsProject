@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+pandas
+matplotlib
+scikit-learn
+newspaper3k
+lxml_html_clean
