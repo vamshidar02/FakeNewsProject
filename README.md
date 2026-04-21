@@ -49,4 +49,18 @@ The trained model is not included due to GitHub size limitations.
 ## step-1 Clone the repository
 git clone https://github.com/vamshidar02/FakeNewsProject.git
 cd FakeNewsProject
-## Step - 2 
+
+## Step - 2 Create virtual environment
+python -m venv venv
+venv\Scripts\activate   # Windows
+
+## Step - 3 Install dependencies
+pip install -r requirements.txt
+
+## Step - 4 Run the app
+streamlit run app.py
+
+## Author
+Madupathi Vamshidar
+
+-----
